@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>message</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-05 14:35:00</sys_created_on>
+        <sys_data_policy display_value="Sets the Message field to mandatory">da120e94e41110107f4463413acc7652</sys_data_policy>
+        <sys_id>5e120e94e41110107f4463413acc7655</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>message</sys_name>
+        <sys_package display_value="CCW2889 Hello World" source="x_1234_ccw2889_hel">4d714294e41110107f4463413acc76aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCW2889 Hello World">4d714294e41110107f4463413acc76aa</sys_scope>
+        <sys_update_name>sys_data_policy_rule_5e120e94e41110107f4463413acc7655</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-05 14:35:00</sys_updated_on>
+        <table>x_1234_ccw2889_hel_message</table>
+    </sys_data_policy_rule>
+</record_update>
